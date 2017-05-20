@@ -4,7 +4,7 @@ This game is developed in Java using Swing Components such as JFrame and MySql d
 ## Motivation behind the project
 This project is developed for my course "Programming in Java" which comes in 3rd semester in my curriculum. 
 
-# To see video demonstration of my project click [here].
+# To see video demonstration of my project click [here](https://youtu.be/l8XfzyInitw).
 
 ### Note: Make sure you add the mysql connector in the project and the database schema in mysql client before trying the application. The *Main_try.zip* consist of all the files required to run the applciation download it to run the application. 
 
