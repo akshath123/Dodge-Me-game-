@@ -6,5 +6,5 @@ This project is developed for my course "Programming in Java" which comes in 3rd
 
 # To see video demonstration of my project click [here].
 
-### Note: Make sure you add the mysql connector in the project and the database schema in mysql client before trying the application. 
+### Note: Make sure you add the mysql connector in the project and the database schema in mysql client before trying the application. The Main_try.zip consist of all the files required to run the applciation download it to run the application. 
 
